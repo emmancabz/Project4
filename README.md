@@ -1,4 +1,4 @@
-# Project4 - Simple Mad Libs Game
+# Project 4 - Simple Mad Libs Game
 
 ## Description
 This is a simple **Java console program** designed for beginners. It creates a short, funny story by asking the user for different types of words (like adjectives, a noun, and a verb) and inserting them into a preset story.
