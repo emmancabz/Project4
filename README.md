@@ -15,5 +15,20 @@ This is a simple **Java console program** designed for beginners. It creates a s
 2. Open `Project4.java` inside the `project4` package.
 3. Run the program (Shift + F6 or click Run).
 
-### Author
+## Example Output
+
+```bash
+Enter an adjective (description): hunted
+Enter a noun (animal or person): Bruno Mars
+Enter an adjective (description): fluffy
+Enter a verb end with -ing (action): dancing
+Enter an adjective (description): surprised
+
+Today, I went to a hunted mall
+In a fast food, I saw Bruno Mars.
+Bruno Mars was fluffy and dancing.
+I was surprised!
+```
+
+## Author
 Emman Cabz
