@@ -15,7 +15,7 @@ This is a simple **Java console program** designed for beginners. It creates a s
 2. Open `Project4.java` inside the `project4` package.
 3. Run the program (Shift + F6 or click Run).
 
-## Example Output
+## Sample Output
 
 ```bash
 Enter an adjective (description): hunted
